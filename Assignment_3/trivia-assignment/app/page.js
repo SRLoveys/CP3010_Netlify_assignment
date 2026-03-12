@@ -7,6 +7,7 @@ export default function Home() {
         <div className="flex flex-col gap-6 text-center sm:items-start sm:text-left">
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             Welcome to my Rick and Morty page.
+            Netlify small change commit.
           </h1>
         </div>
         <Image
